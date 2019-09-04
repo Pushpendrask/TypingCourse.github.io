@@ -1,0 +1,6 @@
+ WOLFMANIA
+WOLFMANIA
+2 weeks ago
+Write this line in your code
+
+$mail->SMTPDebug = 2;
